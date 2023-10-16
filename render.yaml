@@ -1,7 +1,7 @@
 databases:
   - name: test_DB
     databaseName: test_db_fmrc
-    user: test
+    user: test_db_fmrc_user
     region: singapore
 
 services:
